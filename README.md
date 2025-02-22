@@ -1,4 +1,4 @@
-StayAt Site Live - https://hotel-booking-rose.vercel.app/
+
 
 
 - routing configure
