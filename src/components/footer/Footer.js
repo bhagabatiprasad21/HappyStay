@@ -87,8 +87,7 @@ const Footer = () => {
 
       <div className="footerDown text-white p-10  bg-black">
         <span className="m-5">
-          Copyright © 2023 - 2024 StayAT®. All rights reserved to @Mr. Satyam
-          Singh.
+          Copyright © 2024 HappyStay®. All rights reserved to @Mr. Bhagabati Prasad
         </span>
       </div>
     </div>
